@@ -1,5 +1,5 @@
 # Note:
-I am currently trying to recover the final version of this project and the corresponding demo video </br> from the University of Minnesota's Enterprise GitHub account which was removed after graduation. 
+I am currently trying to recover the final version of this project and the corresponding demo video from the University of Minnesota's Enterprise GitHub account after their recent policy change ended lifetime support for alumni.
 
 # Screenshot of demo video:
 ![Screenshot of demonstration](https://github.com/user-attachments/assets/c33a01d2-714a-444d-a37a-2a3c89bd05d2)
